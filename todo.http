@@ -1,0 +1,7 @@
+
+# List all todo tasks
+
+GET http://localhost:8080/todo
+Content-Type: application/json
+
+###
